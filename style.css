@@ -1,0 +1,79 @@
+blockquote{
+  text-align: center;
+  color:#465c4c;
+  opacity: 0.7;
+}
+body{
+
+      background-color: #ebe7ae;
+}
+#h1id{
+    text-align: center;
+    background: radial-gradient(white, #e0b67e);
+}
+.column {
+    background-image: url('https://therightsofnature.org/wp-content/uploads/2018/01/turkey-3048299_1920-1366x550.jpg');
+    background-position: bottom;
+    column-width: 200px;
+    column-count: 2;
+    column-gap: 10px;
+    column-rule: 2px solid black;
+    margin: 50px ;
+    padding: 60px 0px;;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+  }
+#button{
+    width: 250px;
+    height: 50px
+    color: green;
+    border-radius: 10px 15px;
+    border: 2px;
+    margin-left: 100px;
+  }
+.picture{
+  width: 15%;
+  height: 15%;
+  float: right;
+  margin-right: 100px;
+}
+h5{
+  text-align: center
+}
+pre{
+  margin-left: 100px;
+}
+.progress{
+  color: #4639bd;
+  margin-left: 100px;
+}
+.header{
+  font-size:2em;
+  background: #fc0;
+  width: 100%;
+  margin-top: 30px;
+  border:3px solid red;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }
+.sound, .video, .time {
+  text-align:center;
+  font-size: 1.8em;
+}
+.list{
+  padding: 10px 15px;
+  width: 30%;
+  font-size:2em;
+  background: #91c7c7;
+  color:#f0f7f7;
+  opacity: 0.7;
+  border:3px solid #53c9ae ;
+  display: block;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align:left;
+}
